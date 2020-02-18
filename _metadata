@@ -1,0 +1,9 @@
+{
+  "author" : "Xan the Dragon",
+  "description" : "Patches vanilla containers that are similar to bookshelves (or *are* bookshelves) to use a new container model that adds a Codex button.",
+  "friendlyName" : "XCustomCodex - Bookshelf Codex Button Addon",
+  "name" : "xcustomcodex-containers",
+  "includes" : ["xcustomcodex"],
+  "tags" : "Miscellaneous|User Interface",
+  "version" : "1.0.0"
+}
